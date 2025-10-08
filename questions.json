@@ -1,0 +1,1918 @@
+[
+  {
+    "id": 1,
+    "type": 1,
+    "question": "Thủ đô đầu tiên của nước Việt Nam độc lập thời phong kiến là gì?",
+    "options": {"A": "Hà Nội", "B": "Hoa Lư", "C": "Huế", "D": "Thăng Long"},
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "type": 1,
+    "question": "Ai là người đọc bản Tuyên ngôn độc lập tại Quảng trường Ba Đình năm 1945?",
+    "options": {"A": "Võ Nguyên Giáp", "B": "Trường Chinh", "C": "Hồ Chí Minh", "D": "Phạm Văn Đồng"},
+    "answer": "C"
+  },
+  {
+    "id": 3,
+    "type": 1,
+    "question": "Dòng sông nào dài nhất chảy qua lãnh thổ Việt Nam?",
+    "options": {"A": "Sông Hồng", "B": "Sông Đà", "C": "Sông Mekong", "D": "Sông Đồng Nai"},
+    "answer": "C"
+  },
+  {
+    "id": 4,
+    "type": 1,
+    "question": "Đặc sản 'cơm hến' là món ăn nổi tiếng của vùng nào?",
+    "options": {"A": "Hà Nội", "B": "Quảng Nam", "C": "Huế", "D": "Nghệ An"},
+    "answer": "C"
+  },
+  {
+    "id": 5,
+    "type": 1,
+    "question": "Việt Nam chính thức gia nhập ASEAN vào năm nào?",
+    "options": {"A": "1991", "B": "1995", "C": "2000", "D": "1993"},
+    "answer": "B"
+  },
+  {
+    "id": 6,
+    "type": 1,
+    "question": "Ai là tác giả của “Bình Ngô đại cáo”?",
+    "options": {"A": "Nguyễn Trãi", "B": "Nguyễn Du", "C": "Lê Thánh Tông", "D": "Trần Hưng Đạo"},
+    "answer": "A"
+  },
+  {
+    "id": 7,
+    "type": 1,
+    "question": "Việt Nam có bao nhiêu tỉnh, thành phố trực thuộc trung ương (tính đến năm 2024)?",
+    "options": {"A": "63", "B": "64", "C": "60", "D": "66"},
+    "answer": "A"
+  },
+  {
+    "id": 8,
+    "type": 1,
+    "question": "Tên gọi “Việt Nam” lần đầu tiên xuất hiện vào thời kỳ nào?",
+    "options": {"A": "Nhà Nguyễn", "B": "Nhà Lê", "C": "Nhà Hồ", "D": "Nhà Tây Sơn"},
+    "answer": "B"
+  },
+  {
+    "id": 9,
+    "type": 1,
+    "question": "Tên gọi “Đông Dương” trong lịch sử thuộc địa dùng để chỉ vùng lãnh thổ nào?",
+    "options": {"A": "Việt Nam, Lào, Thái Lan", "B": "Việt Nam, Lào, Campuchia", "C": "Việt Nam, Trung Quốc, Lào", "D": "Việt Nam, Campuchia, Thái Lan"},
+    "answer": "B"
+  },
+  {
+    "id": 10,
+    "type": 1,
+    "question": "Dãy núi nào được mệnh danh là 'xương sống' của lãnh thổ Việt Nam?",
+    "options": {"A": "Dãy Hoàng Liên Sơn", "B": "Dãy Trường Sơn", "C": "Dãy Đông Triều", "D": "Dãy Bạch Mã"},
+    "answer": "B"
+  },
+  {
+    "id": 11,
+    "type": 1,
+    "question": "Di tích Mỹ Sơn thuộc nền văn hóa nào?",
+    "options": {"A": "Văn hóa Óc Eo", "B": "Văn hóa Sa Huỳnh", "C": "Văn hóa Chăm Pa", "D": "Văn hóa Đông Sơn"},
+    "answer": "C"
+  },
+  {
+    "id": 12,
+    "type": 1,
+    "question": "Hồ lớn nhất Việt Nam là hồ nào?",
+    "options": {"A": "Hồ Hoàn Kiếm", "B": "Hồ Tây", "C": "Hồ Ba Bể", "D": "Hồ Dầu Tiếng"},
+    "answer": "C"
+  },
+  {
+    "id": 13,
+    "type": 1,
+    "question": "Ai là người lãnh đạo cuộc khởi nghĩa Lam Sơn chống quân Minh?",
+    "options": {"A": "Trần Hưng Đạo", "B": "Nguyễn Trãi", "C": "Lê Lợi", "D": "Quang Trung"},
+    "answer": "C"
+  },
+  {
+    "id": 14,
+    "type": 1,
+    "question": "Biểu tượng con Rồng thời Lý thường gắn với hình ảnh gì?",
+    "options": {"A": "Mây trời và lửa", "B": "Nước và hoa sen", "C": "Cây tre và trống đồng", "D": "Sóng nước và mây lượn"},
+    "answer": "D"
+  },
+  {
+    "id": 15,
+    "type": 1,
+    "question": "Loài hoa nào được xem là quốc hoa không chính thức của Việt Nam?",
+    "options": {"A": "Hoa mai", "B": "Hoa đào", "C": "Hoa sen", "D": "Hoa lan"},
+    "answer": "C"
+  },
+  {
+    "id": 16,
+    "type": 1,
+    "question": "Mốc lịch sử nào đánh dấu sự kết thúc của chế độ phong kiến Việt Nam?",
+    "options": {"A": "1884 – Hiệp ước Patenôtre", "B": "1945 – Cách mạng Tháng Tám", "C": "1954 – Hiệp định Genève", "D": "1975 – Giải phóng miền Nam"},
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "type": 1,
+    "question": "Mạng xã hội \"Zalo\" là sản phẩm của công ty nào của Việt Nam?",
+    "options": {"A": "Viettel", "B": "VNG", "C": "VNPT", "D": "VinGroup"},
+    "answer": "B"
+  },
+  {
+    "id": 18,
+    "type": 1,
+    "question": "Thành phố nào được mệnh danh là “thành phố không ngủ” với bãi biển đẹp và nhịp sống về đêm sôi động?",
+    "options": {"A": "Hà Nội", "B": "TP. Hồ Chí Minh", "C": "Đà Nẵng", "D": "Huế"},
+    "answer": "C"
+  },
+  {
+    "id": 19,
+    "type": 1,
+    "question": "Phố cổ Hội An là điểm dừng chân \"mộng mơ\" trong lòng du khách quốc tế nhờ sắc màu cổ kính và không khí huyền ảo. Hội An nổi tiếng với điều gì sau đây?",
+    "options": {"A": "Ánh đèn lồng lung linh", "B": "Kiến trúc cổ kính", "C": "Ẩm thực phong phú", "D": "Tất cả các đáp án trên"},
+    "answer": "D"
+  },
+  {
+    "id": 20,
+    "type": 1,
+    "question": "Ẩm thực Việt Nam đa dạng đến mức một số món chỉ “ngồi ăn” mà đã biết cả nước. Trong số các món sau, món nào không phải là đặc sản miền Trung?",
+    "options": {"A": "Bún bò Huế", "B": "Cao lầu", "C": "Phở", "D": "Mì Quảng"},
+    "answer": "C"
+  },
+  {
+    "id": 21,
+    "type": 1,
+    "question": "Hòn Ti Tốp – biểu tượng của Nha Trang – nổi tiếng với khung cảnh thiên nhiên tuyệt mỹ và trầm tư giữa biển khơi. Hòn đảo này thuộc?",
+    "options": {"A": "TP. Hồ Chí Minh", "B": "Đà Nẵng", "C": "Nha Trang", "D": "Hà Nội"},
+    "answer": "C"
+  },
+  {
+    "id": 22,
+    "type": 1,
+    "question": "Sự kiện ngày 30/4/1975 đánh dấu điều gì trong lịch sử Việt Nam?",
+    "options": {"A": "Bắt đầu cuộc kháng chiến chống Mỹ", "B": "Chiến thắng Điện Biên Phủ", "C": "Giải phóng miền Nam, thống nhất đất nước", "D": "Thành lập Đảng Cộng sản Việt Nam"},
+    "answer": "C"
+  },
+  {
+    "id": 23,
+    "type": 1,
+    "question": "Chiến dịch nào đã dẫn đến sự kiện 30/4/1975?",
+    "options": {"A": "Chiến dịch Điện Biên Phủ", "B": "Chiến dịch Hồ Chí Minh", "C": "Chiến dịch Biên Giới", "D": "Chiến dịch Tây Nguyên"},
+    "answer": "B"
+  },
+  {
+    "id": 24,
+    "type": 1,
+    "question": "Ai là Tổng thống Việt Nam Cộng Hòa cuối cùng trước khi chế độ này sụp đổ?",
+    "options": {"A": "Ngô Đình Diệm", "B": "Nguyễn Văn Thiệu", "C": "Trần Văn Hương", "D": "Dương Văn Minh"},
+    "answer": "D"
+  },
+  {
+    "id": 25,
+    "type": 1,
+    "question": "Ngày 30/4/1975 còn được gọi là gì?",
+    "options": {"A": "Ngày Quốc khánh", "B": "Ngày Thống nhất đất nước", "C": "Ngày Thành lập quân đội", "D": "Ngày Cách mạng tháng Tám"},
+    "answer": "B"
+  },
+  {
+    "id": 26,
+    "type": 1,
+    "question": "Thành phố nào là nơi diễn ra sự kiện tiếp quản quan trọng vào ngày 30/4/1975?",
+    "options": {"A": "Huế", "B": "Hà Nội", "C": "Sài Gòn", "D": "Đà Nẵng"},
+    "answer": "C"
+  },
+  {
+    "id": 27,
+    "type": 1,
+    "question": "Tên gọi chính thức của chiến dịch giải phóng Sài Gòn là gì?",
+    "options": {"A": "Chiến dịch Ánh Sáng", "B": "Chiến dịch Tự Do", "C": "Chiến dịch Hồ Chí Minh", "D": "Chiến dịch Độc Lập"},
+    "answer": "C"
+  },
+  {
+    "id": 28,
+    "type": 1,
+    "question": "Ngày 30/4 hằng năm còn được gọi là gì trong hệ thống ngày lễ chính thức của Việt Nam?",
+    "options": {"A": "Ngày Quốc phòng toàn dân", "B": "Ngày Thống nhất đất nước", "C": "Ngày Độc lập", "D": "Ngày Chiến thắng Mỹ"},
+    "answer": "B"
+  },
+  {
+    "id": 29,
+    "type": 1,
+    "question": "Ai là người đọc lời tuyên bố đầu hàng vô điều kiện trên sóng phát thanh trưa ngày 30/4/1975?",
+    "options": {"A": "Nguyễn Cao Kỳ", "B": "Dương Văn Minh", "C": "Nguyễn Văn Thiệu", "D": "Trần Văn Hương"},
+    "answer": "B"
+  },
+  {
+    "id": 30,
+    "type": 1,
+    "question": "Chiếc xe tăng tiến vào Dinh Độc Lập đầu tiên mang số hiệu gì?",
+    "options": {"A": "390", "B": "843", "C": "1975", "D": "81"},
+    "answer": "A"
+  },
+  {
+    "id": 31,
+    "type": 1,
+    "question": "Sự kiện 30/4/1975 có ý nghĩa gì với đất nước Việt Nam?",
+    "options": {"A": "Kết thúc thời kỳ bao cấp", "B": "Bắt đầu công cuộc đổi mới", "C": "Kết thúc chiến tranh, thống nhất đất nước", "D": "Thành lập chính phủ lâm thời miền Nam"},
+    "answer": "C"
+  },
+  {
+    "id": 32,
+    "type": 1,
+    "question": "Ngày 30/4/1975 thuộc mùa nào trong năm ở Việt Nam?",
+    "options": {"A": "Mùa xuân", "B": "Mùa hạ", "C": "Mùa thu", "D": "Mùa đông"},
+    "answer": "A"
+  },
+  {
+    "id": 33,
+    "type": 1,
+    "question": "Ai là người trực tiếp chỉ huy Chiến dịch Hồ Chí Minh?",
+    "options": {"A": "Võ Nguyên Giáp", "B": "Văn Tiến Dũng", "C": "Lê Duẩn", "D": "Trường Chinh"},
+    "answer": "B"
+  },
+  {
+    "id": 34,
+    "type": 1,
+    "question": "Ngày 30/4 trở thành ngày lễ chính thức của Việt Nam từ năm nào?",
+    "options": {"A": "1975", "B": "1976", "C": "1980", "D": "1990"},
+    "answer": "B"
+  },
+  {
+    "id": 35,
+    "type": 1,
+    "question": "Biểu tượng của sự sụp đổ chính quyền Sài Gòn vào ngày 30/4/1975 là?",  
+    "options": {"A": "Dinh Độc Lập bị chiếm", "B": "Tổng thống bỏ trốn", "C": "Sài Gòn bị ném bom", "D": "Quốc kỳ VNCH bị đốt"},
+    "answer": "A"
+  },
+  {
+    "id": 36,
+    "type": 1,
+    "question": "Chiến dịch Hồ Chí Minh bắt đầu từ ngày nào?",
+    "options": {"A": "26/4/1975", "B": "25/4/1975", "C": "28/4/1975", "D": "29/4/1975"},
+    "answer": "A"
+  },
+  {
+    "id": 37,
+    "type": 1,
+    "question": "Sau ngày 30/4/1975, Sài Gòn được đổi tên thành gì?",
+    "options": {"A": "Nam Việt", "B": "Thành phố Hồ Chí Minh", "C": "Thành phố Giải phóng", "D": "Tân Việt Thành"},
+    "answer": "B"
+  },
+  {
+    "id": 38,
+    "type": 1,
+    "question": "Sau 30/4/1975, nhiệm vụ trọng tâm của cả nước là gì?",
+    "options": {"A": "Mở rộng đối ngoại", "B": "Cải cách ruộng đất", "C": "Thống nhất đất nước và xây dựng CNXH", "D": "Phát triển kinh tế thị trường"},
+    "answer": "C"
+  },
+  {
+    "id": 39,
+    "type": 1,
+    "question": "“Chiến thắng 30/4” còn được gọi bằng một tên thiêng liêng nào?",
+    "options": {"A": "Mùa xuân vĩnh cửu", "B": "Đại thắng mùa Xuân", "C": "Ngày Hòa bình", "D": "Thắng lợi thế kỷ"},
+    "answer": "B"
+  },
+  {
+    "id": 40,
+    "type": 1,
+    "question": "Chiến thắng 30/4 đã kết thúc sự hiện diện của đế quốc nào tại Việt Nam?",
+    "options": {"A": "Pháp", "B": "Trung Quốc", "C": "Mỹ", "D": "Nhật"},
+    "answer": "C"
+  },
+  {
+    "id": 41,
+    "type": 1,
+    "question": "Tên gọi “Việt Nam” chính thức được dùng từ triều đại nào?",
+    "options": {"A": "Lý", "B": "Trần", "C": "Nguyễn", "D": "Tây Sơn"},
+    "answer": "C"
+  },
+  {
+    "id": 42,
+    "type": 1,
+    "question": "Ai là tác giả bản “Tiến Quân Ca” – quốc ca Việt Nam?",
+    "options": {"A": "Văn Cao", "B": "Phạm Duy", "C": "Trịnh Công Sơn", "D": "Nguyễn Văn Tý"},
+    "answer": "A"
+  },
+  {
+    "id": 43,
+    "type": 1,
+    "question": "Lễ hội nào được xem là lớn nhất trong năm tại Việt Nam?",
+    "options": {"A": "Lễ hội chọi trâu", "B": "Tết Nguyên Đán", "C": "Tết Trung Thu", "D": "Giỗ Tổ Hùng Vương"},
+    "answer": "B"
+  },
+  {
+    "id": 44,
+    "type": 1,
+    "question": "Việt Nam giành huy chương vàng đầu tiên tại Olympic vào năm nào?",
+    "options": {"A": "1996", "B": "2000", "C": "2004", "D": "2008"},
+    "answer": "C"
+  },
+  {
+    "id": 45,
+    "type": 1,
+    "question": "Đặc sản nổi tiếng của Huế là món gì?",
+    "options": {
+      "A": "Bún bò",
+      "B": "Bún bò Huế",
+      "C": "Bún có bò ở Huế",
+      "D": "Cả ba đáp án trên đều đúng"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 46,
+    "type": 1,
+    "question": "Quốc hoa của Việt Nam là?",
+    "options": {
+      "A": "Hoa hướng dương",
+      "B": "Hoa đào",
+      "C": "Hoa sen",
+      "D": "Hoa hậu"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 47,
+    "type": 1,
+    "question": "Loại động vật nào bạn có thể gặp ngay trong tên một tỉnh thành Việt Nam?",
+    "options": {
+      "A": "Mèo",
+      "B": "Chó",
+      "C": "Voi",
+      "D": "Cá"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 48,
+    "type": 1,
+    "question": "Món ăn nào ở Việt Nam có thể ăn ở bất kỳ giờ nào trong ngày mà không bị đánh giá?",
+    "options": {
+      "A": "Mì tôm",
+      "B": "Phở",
+      "C": "Cơm tấm",
+      "D": "Tất cả đều đúng"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 49,
+    "type": 1,
+    "question": "Nếu người Việt đi du lịch, món mang theo không phải là passport, mà là?",
+    "options": {
+      "A": "Mắm ruốc",
+      "B": "Tương ớt",
+      "C": "Nồi cơm điện mini",
+      "D": "Gói mì Hảo Hảo"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 50,
+    "type": 1,
+    "question": "Hành động nào sau đây dễ khiến bạn bị \"từ mặt\" khi ngồi ăn lẩu ở Việt Nam?",
+    "options": {
+      "A": "Gắp đồ ăn ra khỏi nồi",
+      "B": "Chưa chín mà ăn",
+      "C": "Nhúng rau quá nhiều",
+      "D": "Bỏ bún vào nồi lẩu"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 51,
+    "type": 1,
+    "question": "Món \"gỏi lá\" có ở vùng nào của Việt Nam?",
+    "options": {
+      "A": "Tây Nguyên",
+      "B": "Đồng bằng sông Cửu Long",
+      "C": "Bắc Trung Bộ",
+      "D": "Hà Nội"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 52,
+    "type": 1,
+    "question": "\"Cà phê muối\" là đặc sản ở đâu?",
+    "options": {
+      "A": "Huế",
+      "B": "Đà Lạt",
+      "C": "Hà Nội",
+      "D": "Ở đâu cũng có, nhưng \"chuẩn vị\" chỉ có ở Huế"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 53,
+    "type": 1,
+    "question": "Bạn đi ăn bún đậu mắm tôm lần đầu, nhưng không chấm mắm tôm. Phản ứng của người bản địa là:",
+    "options": {
+      "A": "Nhẹ nhàng khuyên bạn “phải thử mới biết”",
+      "B": "Nhìn bạn như người ngoài hành tinh",
+      "C": "Thay mắm tôm bằng nước tương (để cứu vớt bạn)",
+      "D": "Tất cả đều đúng"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 54,
+    "type": 1,
+    "question": "Bạn hỏi người miền Tây: “Anh có ăn cơm không?” lúc 3 giờ chiều. Anh ấy trả lời:",
+    "options": {
+      "A": "“Ăn cơm là lẽ sống”",
+      "B": "“Ủa bộ không ăn cơm thì ăn gì?”",
+      "C": "“Có chớ, ăn cơm dừa, cơm sườn, cơm trắng, cơm nước...”",
+      "D": "Cả ba đáp án trên"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 55,
+    "type": 1,
+    "question": "Bạn lỡ gọi “trà đào cam sả không sả” ở Hà Nội. Kết quả là:",
+    "options": {
+      "A": "Nhân viên đứng hình 3 giây",
+      "B": "Bạn nhận được ly trà đào cam sả không sả (vẫn được luôn, chill!)",
+      "C": "Người phía sau cười khúc khích",
+      "D": "Cả 3 cùng lúc diễn ra"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 56,
+    "type": 1,
+    "question": "Bạn nói “Đưa em ly trà đá không đá” ở Sài Gòn. Hậu quả là:",
+    "options": {
+      "A": "Bạn nhận ly nước lọc",
+      "B": "Nhân viên sững sờ",
+      "C": "Người sau lặp lại vì tưởng trend mới",
+      "D": "Tất cả đều đúng"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 57,
+    "type": 1,
+    "question": "Người yêu bạn là trai miền Trung. Bạn nhắn \"Em lạnh quá\", anh ấy sẽ:",
+    "options": {
+      "A": "Gửi cái ảnh nắng chói chang ở quê ảnh",
+      "B": "Trả lời: “Lạnh rứa thì mặc áo dô chớ!”",
+      "C": "Gửi icon cái chăn",
+      "D": "Không nói gì, mai gửi bưu phẩm cái khăn len"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 58,
+    "type": 1,
+    "question": "Bạn yêu người Sài Gòn. Mỗi lần cãi nhau, họ thường:",
+    "options": {
+      "A": "Lâu lâu mới giận, mà giận thì “không thèm giận nữa”",
+      "B": "Im lặng đúng 2 phút, rồi: “Thôi bỏ qua đi”",
+      "C": "Trả lời bằng icon meme",
+      "D": "Mua trà sữa rồi kêu: “Uống cái này đi rồi nói tiếp”"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 59,
+    "type": 1,
+    "question": "Trái tim của thủ đô Hà Nội là hồ nào?",
+    "options": {
+      "A": "Hồ Tràm",
+      "B": "Hồ Tây",
+      "C": "Hồ Gươm",
+      "D": "Hồ Bơi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 60,
+    "type": 1,
+    "question": "Món ăn nào của Việt Nam từng lọt top những món ăn ngon nhất thế giới?",
+    "options": {
+      "A": "Phở",
+      "B": "Bánh chưng",
+      "C": "Bún đậu mắm tôm",
+      "D": "Gỏi cuốn"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 61,
+    "type": 1,
+    "question": "Dòng sông nào dài nhất chảy qua Việt Nam?",
+    "options": {
+      "A": "Sông Hồng",
+      "B": "Sông Mekong",
+      "C": "Sông Cửu Long",
+      "D": "Sông Đà"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 62,
+    "type": 1,
+    "question": "Câu thành ngữ nào sau đây KHÔNG phải của Việt Nam?",
+    "options": {
+      "A": "Có công mài sắt, có ngày nên kim",
+      "B": "Đi một ngày đàng, học một sàng khôn",
+      "C": "Hổ phụ sinh hổ tử",
+      "D": "Cá lớn nuốt cá bé"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 63,
+    "type": 1,
+    "question": "Vịnh Hạ Long nổi tiếng vì điều gì?",
+    "options": {
+      "A": "Có nhiều hải sản",
+      "B": "Cảnh đẹp như tiên cảnh",
+      "C": "Có bối cảnh phim Kong",
+      "D": "Tất cả các phương án trên"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 64,
+    "type": 1,
+    "question": "Loại hình nghệ thuật nào của Việt Nam được UNESCO công nhận là Di sản Văn hóa Phi vật thể?",
+    "options": {
+      "A": "Hát karaoke",
+      "B": "Múa lân sư rồng",
+      "C": "Ca trù",
+      "D": "Múa bụng"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 65,
+    "type": 1,
+    "question": "\"Chúng ta là con Rồng cháu Tiên\" bắt nguồn từ truyền thuyết nào?",
+    "options": {
+      "A": "Thánh Gióng",
+      "B": "Sơn Tinh – Thủy Tinh",
+      "C": "Lạc Long Quân – Âu Cơ",
+      "D": "An Dương Vương – Mỵ Châu"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 66,
+    "type": 1,
+    "question": "Lễ hội chọi trâu nổi tiếng của Việt Nam diễn ra ở đâu?",
+    "options": {
+      "A": "Đà Lạt",
+      "B": "Phú Thọ",
+      "C": "Hải Phòng",
+      "D": "Quảng Ninh"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 67,
+    "type": 1,
+    "question": "Câu nói nào sau đây KHÔNG phải của người Việt?",
+    "options": {
+      "A": "Ăn quả nhớ kẻ trồng cây",
+      "B": "Có chí thì nên",
+      "C": "Tôi không thể nói dối được",
+      "D": "Một cây làm chẳng nên non"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 68,
+    "type": 1,
+    "question": "Tỉnh cuối cùng của miền Nam được giải phóng trong cuộc Tổng tiến công Xuân 1975 là tỉnh nào?",
+    "options": {
+      "A": "Châu Đốc",
+      "B": "Cà Mau",
+      "C": "Kiên Giang",
+      "D": "Long An"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 69,
+    "type": 1,
+    "question": "“Còn cái lai quần cũng đánh” là câu nói nổi tiếng của ai?",
+    "options": {
+      "A": "Nguyễn Thị Định",
+      "B": "Nguyễn Thị Út",
+      "C": "Nguyễn Thị Bình",
+      "D": "Lê Thị Hồng Gấm"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 70,
+    "type": 1,
+    "question": "Phương châm đánh mà Bộ Chính trị đề ra trong kế hoạch giải phóng miền Nam là gì?",
+    "options": {
+      "A": "“Đánh nhanh, thắng nhanh”",
+      "B": "“Tích cực, chủ động, cơ động, linh hoạt”",
+      "C": "“Đánh ăn chắc, đánh chắc thắng”",
+      "D": "“Thần tốc, táo bạo, bất ngờ, chắc thắng”"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 71,
+    "type": 1,
+    "question": "Địa danh nào được mang tên ”ánh Cửa Thép” cuối cùng bảo vệ Sài Gòn từ hướng Đông của Việt Nam Cộng hòa?",
+    "options": {
+      "A": "Trảng Bom",
+      "B": "Biên Hòa",
+      "C": "Xuân Lộc",
+      "D": "Long Khánh"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 72,
+    "type": 1,
+    "question": "Bạn hãy cho biết chiếc xe tăng dẫn đầu đánh chiếm Dinh Độc Lập mang số bao nhiêu?",
+    "options": {
+      "A": "390",
+      "B": "429",
+      "C": "205",
+      "D": "309"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 73,
+    "type": 1,
+    "question": "Bạn hãy cho biết tên của người chiến sĩ cắm lá cờ đầu tiên trên nóc Dinh Độc Lập.",
+    "options": {
+      "A": "Bùi Quang Thận",
+      "B": "Lữ Văn Hỏa",
+      "C": "Thái Bá Minh",
+      "D": "Nguyễn Văn Kỷ"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 74,
+    "type": 1,
+    "question": "Trong tiếng Anh, ngày Quốc tế Lao động là gì?",
+    "options": {
+      "A": "International Labour Day",
+      "B": "International Labour’s Day",
+      "C": "Labour Day",
+      "D": "Labours’ Day"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 75,
+    "type": 1,
+    "question": "Ngày Quốc tế Lao động 1/5 có nguồn gốc từ nước nào?",
+    "options": {
+      "A": "Mỹ",
+      "B": "Pháp",
+      "C": "Anh",
+      "D": "Liên Xô (cũ)"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 76,
+    "type": 1,
+    "question": "Mục đích chính của các cuộc biểu tình ngày 1/5/1886 là gì?",
+    "options": {
+      "A": "Đòi tăng lương, giảm giờ làm",
+      "B": "Đòi tăng lương",
+      "C": "Yêu cầu các nhà máy cho phép công đoàn hoạt động",
+      "D": "Đòi thực hiện ngày làm việc 8 tiếng"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 77,
+    "type": 1,
+    "question": "Nước nào là nước đầu tiên cho phép người dân được nghỉ làm ngày Quốc tế Lao động 1/5?",
+    "options": {
+      "A": "Mỹ",
+      "B": "Anh",
+      "C": "Liên Xô (cũ)",
+      "D": "Đức"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 78,
+    "type": 1,
+    "question": "Giai cấp công nhân Việt Nam kỷ niệm ngày 1/5 lần đầu tiên vào năm nào?",
+    "options": {
+      "A": "1926",
+      "B": "1929",
+      "C": "1930",
+      "D": "1936"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 79,
+    "type": 1,
+    "question": "Từ 2012, tháng 5 hàng năm được gọi là tháng gì?",
+    "options": {
+      "A": "Tháng Người lao động",
+      "B": "Tháng Lao động",
+      "C": "Tháng Công nhân",
+      "D": "Tháng Quốc tế Lao động"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 80,
+    "type": 1,
+    "question": "Loại hình múa rối nước xuất phát từ đâu?",
+    "options": {
+      "A": "Tây Nguyên",
+      "B": "Đồng bằng Bắc Bộ",
+      "C": "Trung Bộ",
+      "D": "Miền Nam"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 81,
+    "type": 1,
+    "question": "Từ nào viết đúng chính tả?",
+    "options": {
+      "A": "Sát nhập",
+      "B": "Sáp nhập",
+      "C": "Xáp nhập",
+      "D": "Sáp nhặt"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 82,
+    "type": 1,
+    "question": "Cặp từ nào đồng nghĩa với nhau?",
+    "options": {
+      "A": "Lắt léo – quanh co",
+      "B": "Chân thật – gian trá",
+      "C": "Mập mờ – rõ ràng",
+      "D": "Tươi tỉnh – héo úa"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 83,
+    "type": 1,
+    "question": "Từ nào sau đây là từ Hán Việt?",
+    "options": {
+      "A": "Nhà cửa",
+      "B": "Xe cộ",
+      "C": "Quốc gia",
+      "D": "Đất đai"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 84,
+    "type": 1,
+    "question": "Từ nào sau đây viết đúng?",
+    "options": {
+      "A": "Triễn lãm",
+      "B": "Triển lãm",
+      "C": "Chuyển lãm",
+      "D": "Truyển lãm"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 85,
+    "type": 1,
+    "question": "“Vô tiền khoáng hậu” có nghĩa là gì?",
+    "options": {
+      "A": "Không có ai ủng hộ",
+      "B": "Tài sản tiêu tan",
+      "C": "Chưa từng có trong tiền lệ",
+      "D": "Tiền mất, hậu vận xấu"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 86,
+    "type": 1,
+    "question": "Từ nào sau đây là từ ghép đẳng lập?",
+    "options": {
+      "A": "Đẹp đẽ",
+      "B": "Học hành",
+      "C": "Xinh đẹp",
+      "D": "Lạnh lẽo"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 87,
+    "type": 1,
+    "question": "Ghép từ láy có nghĩa “ồn ào, náo động”: ầm + ĩ",
+    "options": {
+      "A": "Ầm í",
+      "B": "Ầm ĩ",
+      "C": "Ẩm Ỉ",
+      "D": "Ôm ĩ"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 88,
+    "type": 1,
+    "question": "Từ ghép nào là đúng chính tả?",
+    "options": {
+      "A": "Sắp ngửa",
+      "B": "Sấp ngửa",
+      "C": "Xấp ngửa",
+      "D": "Sắp ngữa"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 89,
+    "type": 1,
+    "question": "Món gỏi lá độc đáo (cuốn 10+ loại lá) thuộc vùng nào?",
+    "options": {
+      "A": "Phú Yên",
+      "B": "Kon Tum",
+      "C": "Quảng Nam",
+      "D": "Đắk Lắk"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 90,
+    "type": 1,
+    "question": "Bánh bèo làm từ gì?",
+    "options": {
+      "A": "Bột mì – nước dừa – đậu xanh",
+      "B": "Bột gạo – tôm – hành phi",
+      "C": "Bột năng – mỡ hành – chả cá",
+      "D": "Bột nếp – đậu đen – cốt dừa"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 91,
+    "type": 1,
+    "question": "Bánh khúc đặc sản Hà Nội làm từ?",
+    "options": {
+      "A": "Bột gạo – thịt heo – rau ngót",
+      "B": "Gạo nếp – thịt mỡ – rau khúc – đậu xanh",
+      "C": "Bột nếp – trứng muối – cải xanh",
+      "D": "Gạo tẻ – đậu đen – rau muống"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 92,
+    "type": 1,
+    "question": "Gạo nếp – đậu xanh – hành phi – muối mè",
+    "options": {
+      "A": "Bánh tét",
+      "B": "Xôi vò",
+      "C": "Cơm lam",
+      "D": "Bánh chưng"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 93,
+    "type": 1,
+    "question": "Cá lóc – nghệ – mẻ – rau ngổ – nước mắm",
+    "options": {
+      "A": "Cá kho riềng",
+      "B": "Cá nướng trui",
+      "C": "Canh chua",
+      "D": "Cá om dưa"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 94,
+    "type": 1,
+    "question": "Gạo nếp – chuối – nước cốt dừa – đậu phộng",
+    "options": {
+      "A": "Chè chuối",
+      "B": "Xôi chuối",
+      "C": "Bánh chuối hấp",
+      "D": "Chuối nướng"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 95,
+    "type": 1,
+    "question": "Câu tục ngữ nào dạy ta cách... \"đầu tư bền vững\"?",
+    "options": {
+      "A": "Ăn chắc mặc bền",
+      "B": "Có chí thì nên",
+      "C": "Tích tiểu thành đại",
+      "D": "Trâu chậm uống nước đục"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 96,
+    "type": 1,
+    "question": "Tỉnh nào đang được gọi là “thủ phủ sầu riêng” của Việt Nam?",
+    "options": {
+      "A": "Đắk Lắk",
+      "B": "Tiền Giang",
+      "C": "Bến Tre",
+      "D": "Lâm Đồng"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 97,
+    "type": 1,
+    "question": "Từ khoá \"Chữa lành\" (healing) trong giới trẻ Việt hiện nay thường gắn với điều gì?",
+    "options": {
+      "A": "Du lịch nhẹ nhàng",
+      "B": "Thiền và đọc sách",
+      "C": "Tách khỏi mạng xã hội",
+      "D": "Tất cả các phương án trên"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 98,
+    "type": 1,
+    "question": "Chiến dịch “Made by Vietnam” đang thúc đẩy điều gì?",
+    "options": {
+      "A": "Du lịch trong nước",
+      "B": "Văn hóa truyền thống",
+      "C": "Hàng hóa nội địa chất lượng cao",
+      "D": "Thời trang thân thiện môi trường"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 99,
+    "type": 1,
+    "question": "Thành phố nào được mệnh danh là “Singapore của Việt Nam”?",
+    "options": {
+      "A": "Đà Nẵng",
+      "B": "Bình Dương",
+      "C": "Cần Thơ",
+      "D": "Phú Quốc"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 100,
+    "type": 1,
+    "question": "Bài hát “Gieo Quẻ” của Hoàng Thùy Linh lấy cảm hứng từ loại hình nghệ thuật nào?",
+    "options": {
+      "A": "Chèo",
+      "B": "Cải lương",
+      "C": "Hát văn",
+      "D": "Hát xẩm"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 101,
+    "type": 1,
+    "question": "Khu công nghệ cao lớn nhất phía Nam đặt ở đâu?",
+    "options": {
+      "A": "Bình Dương",
+      "B": "TP.HCM (Quận 9)",
+      "C": "Cần Thơ",
+      "D": "Vũng Tàu"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 102,
+    "type": 1,
+    "question": "Tỉnh nào có cả núi lửa, biển, đồng bằng, và cao nguyên?",
+    "options": {
+      "A": "Bình Thuận",
+      "B": "Quảng Ngãi",
+      "C": "Phú Yên",
+      "D": "Ninh Thuận"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 103,
+    "type": 1,
+    "question": "Ai là người trẻ nhất từng trúng cử đại biểu Quốc hội ở Việt Nam?",
+    "options": {
+      "A": "Nguyễn Anh Tuấn",
+      "B": "Nguyễn Khánh Linh",
+      "C": "Nguyễn Thị Lê Na",
+      "D": "Nguyễn Việt Tú"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 104,
+    "type": 1,
+    "question": "Khẩu hiệu nào sau đây được phong trào công nhân quốc tế sử dụng?",
+    "options": {
+      "A": "Công nhân là vua",
+      "B": "Quyền lực về tay người giàu",
+      "C": "Tự do - Bình đẳng - Lao động",
+      "D": "Tám giờ làm việc – Tám giờ nghỉ ngơi – Tám giờ vui chơi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 105,
+    "type": 1,
+    "question": "Biểu tượng nào thường gắn với phong trào công nhân quốc tế?",
+    "options": {
+      "A": "Cây súng và hoa",
+      "B": "Nắm đấm giơ cao",
+      "C": "Búa liềm",
+      "D": "Cờ đỏ sao vàng"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 106,
+    "type": 1,
+    "question": "Tranh dân gian Đông Hồ thường được in trên loại giấy gì?",
+    "options": {
+      "A": "Giấy dó",
+      "B": "Giấy xi măng",
+      "C": "Giấy bồi vàng",
+      "D": "Giấy gió"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 107,
+    "type": 1,
+    "question": "Trong tranh Đông Hồ, con vật nào biểu tượng cho hạnh phúc và sinh sôi?",
+    "options": {
+      "A": "Lợn",
+      "B": "Gà",
+      "C": "Rồng",
+      "D": "Trâu"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 108,
+    "type": 1,
+    "question": "\"Lục Vân Tiên\" là tác phẩm nghệ thuật nổi tiếng ở loại hình nào?",
+    "options": {
+      "A": "Hát bội",
+      "B": "Cải lương",
+      "C": "Tuồng",
+      "D": "Múa rối nước"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 109,
+    "type": 1,
+    "question": "Thể loại âm nhạc nào có nguồn gốc từ miền Nam và thường hát theo hơi điệu buồn, da diết?",
+    "options": {
+      "A": "Ca trù",
+      "B": "Quan họ",
+      "C": "Nhã nhạc",
+      "D": "Vọng cổ"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 110,
+    "type": 1,
+    "question": "Ca trù còn có tên gọi nào sau đây?",
+    "options": {
+      "A": "Hát ví",
+      "B": "Hát cô đầu",
+      "C": "Hò Huế",
+      "D": "Hát chèo"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 111,
+    "type": 1,
+    "question": "Nhạc sĩ nào gắn liền với các ca khúc phản chiến, triết lý sâu sắc như “Diễm xưa”, “Hạ trắng”?",
+    "options": {
+      "A": "Phạm Duy",
+      "B": "Trịnh Công Sơn",
+      "C": "Văn Cao",
+      "D": "Nguyễn Đức Cường"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 112,
+    "type": 1,
+    "question": "Ca khúc “Bèo dạt mây trôi” thuộc thể loại nào?",
+    "options": {
+      "A": "Nhạc đỏ",
+      "B": "Nhạc cách mạng",
+      "C": "Dân ca quan họ",
+      "D": "Dân ca xứ Nghệ"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 113,
+    "type": 1,
+    "question": "Nghệ thuật đờn ca tài tử có nguồn gốc từ:",
+    "options": {
+      "A": "Nam Bộ",
+      "B": "Bắc Bộ",
+      "C": "Trung Bộ",
+      "D": "Tây Nguyên"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 114,
+    "type": 1,
+    "question": "Di tích lịch sử Cố đô Hoa Lư thuộc tỉnh nào?",
+    "options": {
+      "A": "Thanh Hóa",
+      "B": "Ninh Bình",
+      "C": "Nghệ An",
+      "D": "Hà Tĩnh"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 115,
+    "type": 1,
+    "question": "Tỉnh nào được mệnh danh là “xứ sở hoa vàng trên cỏ xanh”?",
+    "options": {
+      "A": "Bình Thuận",
+      "B": "Phú Yên",
+      "C": "Khánh Hòa",
+      "D": "Ninh Thuận"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 116,
+    "type": 1,
+    "question": "Văn Miếu – Quốc Tử Giám được xây dựng dưới triều đại nào?",
+    "options": {
+      "A": "Lý",
+      "B": "Trần",
+      "C": "Lê",
+      "D": "Nguyễn"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 117,
+    "type": 1,
+    "question": "\"Nam quốc sơn hà\" được coi là bản tuyên ngôn độc lập đầu tiên của Việt Nam, ra đời trong cuộc kháng chiến chống quân xâm lược nào?",
+    "options": {
+      "A": "Nguyên Mông",
+      "B": "Tống",
+      "C": "Minh",
+      "D": "Chiêm Thành"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 118,
+    "type": 1,
+    "question": "Biểu tượng chính của TP. Hồ Chí Minh hiện nay là gì?",
+    "options": {
+      "A": "Bitexco",
+      "B": "Dinh Độc Lập",
+      "C": "Chợ Bến Thành",
+      "D": "Nhà thờ Đức Bà"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 119,
+    "type": 1,
+    "question": "“Chiếu dời đô” được vua nào ban hành?",
+    "options": {
+      "A": "Lê Thánh Tông",
+      "B": "Lý Thái Tổ",
+      "C": "Trần Nhân Tông",
+      "D": "Quang Trung"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 120,
+    "type": 1,
+    "question": "“Nón lá” là sản phẩm truyền thống nổi tiếng nhất của tỉnh nào?",
+    "options": {
+      "A": "Hà Nội",
+      "B": "Huế",
+      "C": "Bắc Ninh",
+      "D": "Bến Tre"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 121,
+    "type": 1,
+    "question": "Vùng nào ở Việt Nam nổi tiếng với các điệu hò như hò mái nhì, hò giã gạo?",
+    "options": {
+      "A": "Bắc Bộ",
+      "B": "Tây Nguyên",
+      "C": "Bắc Trung Bộ",
+      "D": "Nam Bộ"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 122,
+    "type": 1,
+    "question": "“Mắm tôm chua” là đặc sản nổi tiếng của nơi nào?",
+    "options": {
+      "A": "Huế",
+      "B": "Hải Phòng",
+      "C": "Bình Thuận",
+      "D": "Tây Ninh"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 123,
+    "type": 1,
+    "question": "Vùng nào ở Việt Nam được mệnh danh là “chảo lửa, túi mưa”?",
+    "options": {
+      "A": "Quảng Trị",
+      "B": "Hà Giang",
+      "C": "Nghệ An",
+      "D": "Hà Tĩnh"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 124,
+    "type": 1,
+    "question": "Tỉnh nào có lễ hội Kate đặc trưng của người Chăm?",
+    "options": {
+      "A": "Ninh Thuận",
+      "B": "Bình Thuận",
+      "C": "Khánh Hòa",
+      "D": "Lâm Đồng"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 125,
+    "type": 1,
+    "question": "Vùng đất nào nổi tiếng với \"múa xòe Thái\"?",
+    "options": {
+      "A": "Cao Bằng",
+      "B": "Lào Cai",
+      "C": "Sơn La",
+      "D": "Điện Biên"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 126,
+    "type": 1,
+    "question": "Thắng cảnh Gành Đá Đĩa thuộc tỉnh nào?",
+    "options": {
+      "A": "Bình Định",
+      "B": "Phú Yên",
+      "C": "Khánh Hòa",
+      "D": "Quảng Ngãi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 127,
+    "type": 1,
+    "question": "\"Gỏi cá trích\" là món ăn đặc sản của?",
+    "options": {
+      "A": "Phan Thiết",
+      "B": "Phú Quốc",
+      "C": "Hội An",
+      "D": "Nha Trang"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 128,
+    "type": 1,
+    "question": "\"Bánh ít lá gai\" là món ăn đặc trưng của vùng nào?",
+    "options": {
+      "A": "Bình Định",
+      "B": "Quảng Ngãi",
+      "C": "Ninh Thuận",
+      "D": "Phú Yên"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 129,
+    "type": 1,
+    "question": "Loại mắm nào nổi tiếng ở Châu Đốc, An Giang?",
+    "options": {
+      "A": "Mắm tôm",
+      "B": "Mắm cá linh",
+      "C": "Mắm ruốc",
+      "D": "Mắm chua"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 130,
+    "type": 1,
+    "question": "Ai là ca sĩ đầu tiên của Việt Nam giành giải “Nghệ sĩ xuất sắc Châu Á” tại Mnet Asian Music Awards (MAMA)?",
+    "options": {
+      "A": "Mỹ Tâm",
+      "B": "Sơn Tùng M-TP",
+      "C": "Đông Nhi",
+      "D": "Noo Phước Thịnh"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 131,
+    "type": 1,
+    "question": "Nhạc cụ dân tộc nào dưới đây là đặc trưng của vùng Tây Nguyên?",
+    "options": {
+      "A": "Đàn bầu",
+      "B": "Đàn t’rưng",
+      "C": "Đàn tranh",
+      "D": "Sáo trúc"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 132,
+    "type": 1,
+    "question": "“Như có Bác trong ngày đại thắng” là ca khúc quen thuộc trong dịp nào?",
+    "options": {
+      "A": "Tết Nguyên Đán",
+      "B": "Ngày Quốc tế Lao động",
+      "C": "30/4 – Ngày Giải phóng miền Nam",
+      "D": "Ngày Quốc khánh"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 133,
+    "type": 1,
+    "question": "Từ nào chính xác?",
+    "options": {
+      "A": "Lấp lửng",
+      "B": "Lắp lửng",
+      "C": "Lấp lững",
+      "D": "Lắp lững"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 134,
+    "type": 1,
+    "question": "Từ nào viết đúng?",
+    "options": {
+      "A": "Xúc xắc",
+      "B": "Xúc sắc",
+      "C": "Súc xắc",
+      "D": "Súc sắc"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 135,
+    "type": 1,
+    "question": "Từ đúng là?",
+    "options": {
+      "A": "Đĩnh đạc",
+      "B": "Đỉnh đạc",
+      "C": "Đỉnh đặc",
+      "D": "Đĩnh đặc"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 136,
+    "type": 1,
+    "question": "Tác phẩm “Tắt đèn” phản ánh hiện thực xã hội nào?",
+    "options": {
+      "A": "Hậu chiến tranh",
+      "B": "Thời kỳ Pháp thuộc",
+      "C": "Nông thôn Việt Nam dưới chế độ thực dân phong kiến",
+      "D": "Xã hội miền Nam sau 1975"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 137,
+    "type": 1,
+    "question": "Ai là tác giả bài thơ \"Tây Tiến\"?",
+    "options": {
+      "A": "Chính Hữu",
+      "B": "Quang Dũng",
+      "C": "Xuân Diệu",
+      "D": "Huy Cận"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 138,
+    "type": 1,
+    "question": "Tác phẩm \"Làng\" của Kim Lân kể về nhân vật nào?",
+    "options": {
+      "A": "Ông Tư",
+      "B": "Ông Sáu",
+      "C": "Ông Hai",
+      "D": "Cậu Vàng"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 139,
+    "type": 1,
+    "question": "Câu thơ \"Người đồng mình thương lắm con ơi\" thuộc bài thơ nào?",
+    "options": {
+      "A": "Bếp lửa",
+      "B": "Quê hương",
+      "C": "Nói với con",
+      "D": "Tiếng gà trưa"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 140,
+    "type": 1,
+    "question": "\"Người lái đò sông Đà\" là tác phẩm thuộc thể loại gì?",
+    "options": {
+      "A": "Truyện ngắn",
+      "B": "Tiểu thuyết",
+      "C": "Tùy bút",
+      "D": "Phóng sự"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 141,
+    "type": 1,
+    "question": "“Tiếng gà trưa” gợi nhớ đến ai trong tâm trí người lính?",
+    "options": {
+      "A": "Bà",
+      "B": "Mẹ",
+      "C": "Chị",
+      "D": "Người yêu"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 142,
+    "type": 1,
+    "question": "Hình ảnh “tre Việt Nam” tượng trưng cho điều gì?",
+    "options": {
+      "A": "Khát vọng đổi mới",
+      "B": "Phẩm chất kiên cường dân tộc",
+      "C": "Nỗi đau chiến tranh",
+      "D": "Văn hóa truyền thống"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 143,
+    "type": 1,
+    "question": "Trong \"Lặng lẽ Sa Pa\", nhân vật chính làm nghề gì?",
+    "options": {
+      "A": "Lái xe",
+      "B": "Làm khí tượng",
+      "C": "Nhà văn",
+      "D": "Bộ đội"
+    },
+    "answer": "B"
+  },      
+  {
+    "id": 144,
+    "type": 2,
+    "question": "Một thành phố biển\nTên gọi có răng\nĐố hữu, đố bằng\nBiết chăng đáp nhanh",
+    "answer": "Nha Trang"
+  },
+  {
+    "id": 145,
+    "type": 2,
+    "question": "Tên nghe nửa ruộng nửa rừng\nĐố ai ai trải ai từng đáp đi\nĐó là tỉnh gì?",
+    "answer": "Lâm Đồng"
+  },
+  {
+    "id": 146,
+    "type": 2,
+    "question": "Tỉnh gì không sâu?",
+    "answer": "Bắc Cạn"
+  },
+  {
+    "id": 147,
+    "type": 2,
+    "question": "Tỉnh gì tên chẳng chiến tranh bao giờ?",
+    "answer": "Hòa Bình"
+  },
+  {
+    "id": 148,
+    "type": 2,
+    "question": "Tỉnh nào tiếp giáp đất Miên,\nLà nơi có núi Bà Đen lâu đời?",
+    "answer": "Tây Ninh"
+  },
+  {
+    "id": 149,
+    "type": 2,
+    "question": "Theo ngược lên dòng sông Ba,\nNơi buồn muôn thuở gọi là gì đây?",
+    "answer": "Buôn Ma Thuột"
+  },
+  {
+    "id": 150,
+    "type": 2,
+    "question": "Xuôi nam thì đến một miền,\nNghe tên tỉnh biết vừa yên vừa giầu.",
+    "answer": "Phú Yên"
+  },
+  {
+    "id": 151,
+    "type": 2,
+    "question": "Sông nào có cầu Đà Rằng?",
+    "answer": "Sông Ba"
+  },
+  {
+    "id": 152,
+    "type": 2,
+    "question": "Ải nào chém giặc Liễu Thăng bay đầu?",
+    "answer": "Ải Chi Lăng"
+  },
+  {
+    "id": 153,
+    "type": 2,
+    "question": "Sông nào chia cắt sơn hà\ndưới thời Trịnh Nguyễn thật là xót xa?",
+    "answer": "Sông Gianh"
+  },
+  {
+    "id": 154,
+    "type": 2,
+    "question": "Sông nào lạnh lẽo tâm can\nchảy qua Đà Nẵng Quảng Nam trung phần?",
+    "answer": "Sông Hàn"
+  },
+  {
+    "id": 155,
+    "type": 2,
+    "question": "Sông nào chia cắt nước nhà\nhai miền Nam Bắc can qua tương tàn?",
+    "answer": "Sông Bến Hải"
+  },
+  {
+    "id": 156,
+    "type": 2,
+    "question": "Sông nào vẳng tiếng thần thơ\nnức lòng quân sĩ đang chờ phản công?",
+    "answer": "Sông Như Nguyệt"
+  },
+  {
+    "id": 157,
+    "type": 2,
+    "question": "Sông nào nước chảy ngược dòng lạ chưa?",
+    "answer": "Sông Kì Cùng"
+  },
+  {
+    "id": 158,
+    "type": 2,
+    "question": "Sông nào đỏ lớp phù sa?",
+    "answer": "Sông Hồng"
+  },
+  {
+    "id": 159,
+    "type": 2,
+    "question": "Sông nào chín nhánh chảy ra Thái Bình?",
+    "answer": "Sông Cửu Long"
+  },
+  {
+    "id": 160,
+    "type": 2,
+    "question": "Sông nào nước chảy chia hai,\nAi về Gia Định, Đồng Nai thì về.",
+    "answer": "Sông Nhà Bè"
+  },
+  {
+    "id": 161,
+    "type": 2,
+    "question": "Núi nào giữa có đèo Ngang,\nXưa từng giúp chúa Nguyễn Hoàng dung thân?",
+    "answer": "Hoành Sơn"
+  },
+  {
+    "id": 162,
+    "type": 2,
+    "question": "Núi nào cao nhất nước ta?",
+    "answer": "Hoàng Liên Sơn"
+  },
+  {
+    "id": 163,
+    "type": 2,
+    "question": "Núi nào sánh với công cha cao vời?",
+    "answer": "Thái Sơn"
+  },
+  {
+    "id": 164,
+    "type": 2,
+    "question": "Núi nào chạy dọc miền Trung?",
+    "answer": "Trường Sơn"
+  },
+  {
+    "id": 165,
+    "type": 2,
+    "question": "Thành nào xây chỉ một đêm,\nCó hình xoắn ốc thưa tên là gì?",
+    "answer": "Thành Cổ Loa"
+  },
+  {
+    "id": 166,
+    "type": 2,
+    "question": "Chùa nào là chốn danh lam,\nGiữa lòng Hà Nội có ngàn năm hơn?",
+    "answer": "Chùa Một Cột"
+  },
+  {
+    "id": 167,
+    "type": 2,
+    "question": "Bến gì tấp nập bán mua\nLừng danh ngôi chợ đất xưa Sài Thành?",
+    "answer": "Bến Thành"
+  },
+  {
+    "id": 168,
+    "type": 2,
+    "question": "Bánh gì nhọn tựa răng cưa?",
+    "answer": "bánh gai"
+  },
+  {
+    "id": 169,
+    "type": 2,
+    "question": "Bánh gì sống ở ao cùng rong rêu?",
+    "answer": "bánh bèo"
+  },
+  {
+    "id": 170,
+    "type": 2,
+    "question": "Bánh gì mà lại bọc trong, bọc ngoài?",
+    "answer": "bánh bao"
+  },
+  {
+    "id": 171,
+    "type": 2,
+    "question": "Bánh gì nên nghĩa sớm trưa vợ chồng?",
+    "answer": "bánh phu thuê"
+  },
+  {
+    "id": 172,
+    "type": 2,
+    "question": "Bảng treo tại chợ Biên Hòa\nKhi không mà chết đến ba mươi người.\nLà bánh gì?",
+    "answer": "bánh mè láo"
+  },
+  {
+    "id": 173,
+    "type": 2,
+    "question": "Bánh gì cả thúng vẫn kêu chưa vừa?",
+    "answer": "bánh ít"
+  },
+  {
+    "id": 174,
+    "type": 2,
+    "question": "Bánh gì nhỏ, gọi mập đùng?",
+    "answer": "bánh ít"
+  },
+  {
+    "id": 175,
+    "type": 2,
+    "question": "Bánh gì ăn cỏ ăn rơm?",
+    "answer": "bánh bò"
+  },
+  {
+    "id": 176,
+    "type": 2,
+    "question": "Bánh gì cất rượu ra chiều nồng thơm?",
+    "answer": "bánh men"
+  },
+  {
+    "id": 177,
+    "type": 2,
+    "question": "Em đây in bột, in đường cũng xong?\nLà bánh gì?",
+    "answer": "bánh in"
+  },
+  {
+    "id": 178,
+    "type": 2,
+    "question": "Bánh gì chiên nở tăng chiều bánh lên?",
+    "answer": "bánh phồng tôm"
+  },
+  {
+    "id": 179,
+    "type": 2,
+    "question": "Bánh gì vui tết trẻ con\nTrông trăng cắt bánh thơm ngon cả nhà?",
+    "answer": "bánh trung thu"
+  },
+  {
+    "id": 180,
+    "type": 2,
+    "question": "Bánh gì vừa mới ăn vào thích mê?",
+    "answer": "bánh khoái"
+  },
+  {
+    "id": 181,
+    "type": 2,
+    "question": "Cháo cá lóc là món đặc sản miền Tây, thường được ăn kèm với loại rau nào?",
+    "answer": "rau đắng"
+  },
+  {
+    "id": 182,
+    "type": 2,
+    "question": "Bánh gì là thứ ăn dâu?",
+    "answer": "bánh tằm"
+  },
+  {
+    "id": 183,
+    "type": 2,
+    "question": "Câu chuyện Bánh chưng bánh giầy xảy ra vào đời vua Hùng thứ mấy?",
+    "answer": "thứ 6"
+  },
+  {
+    "id": 184,
+    "type": 2,
+    "question": "Trong hai loại bánh chưng bánh giầy thì loại bánh nào tượng trưng cho trời?",
+    "answer": "bánh giầy"
+  },
+  {
+    "id": 185,
+    "type": 2,
+    "question": "Xôi gì đủ thứ từ trong ra ngoài?",
+    "answer": "xôi thập cẩm"
+  },
+  {
+    "id": 186,
+    "type": 2,
+    "question": "Xôi gì màu đỏ cam vàng đẹp xinh?",
+    "answer": "xôi gấc"
+  },
+  {
+    "id": 187,
+    "type": 2,
+    "question": "Yến sào là đặc sản của tỉnh nào?",
+    "answer": "Khánh Hòa"
+  },
+  {
+    "id": 188,
+    "type": 2,
+    "question": "Bánh gio (hay bánh tro) là món ăn đặc sắc của tỉnh nào?",
+    "answer": "Bắc Kạn"
+  },
+  {
+    "id": 189,
+    "type": 2,
+    "question": "Chả mực là đặc sản của tỉnh nào?",
+    "answer": "Quảng Ninh"
+  },
+  {
+    "id": 190,
+    "type": 2,
+    "question": "Nhãn lồng là đặc sản của tỉnh nào?",
+    "answer": "Hưng Yên"
+  },
+  {
+    "id": 191,
+    "type": 2,
+    "question": "Thịt trâu gác bếp là đặc sản của tỉnh nào?",
+    "answer": "Yên Bái"
+  },
+  {
+    "id": 192,
+    "type": 2,
+    "question": "Chè xanh là đặc sản của tỉnh nào?",
+    "answer": "Thái Nguyên"
+  },
+  {
+    "id": 193,
+    "type": 2,
+    "question": "Kẹo dừa là đặc sản của tỉnh nào?",
+    "answer": "Bến Tre"
+  },
+  {
+    "id": 194,
+    "type": 2,
+    "question": "Khâu nhục là đặc sản của tỉnh nào?",
+    "answer": "Lạng Sơn"
+  },
+  {
+    "id": 195,
+    "type": 2,
+    "question": "Kẹo cu đơn là đặc sản của tỉnh nào?",
+    "answer": "Hà Tĩnh"
+  },
+  {
+    "id": 196,
+    "type": 2,
+    "question": "Bánh Pía là đặc sản của tỉnh nào?",
+    "answer": "Sóc Trăng"
+  },
+  {
+    "id": 197,
+    "type": 2,
+    "question": "Bún sứa là đặc sản của tỉnh nào?",
+    "answer": "Nha Trang"
+  },
+  {
+    "id": 198,
+    "type": 2,
+    "question": "Bánh phu thê là đặc sản của tỉnh nào?",
+    "answer": "Bắc Ninh"
+  },
+  {
+    "id": 199,
+    "type": 2,
+    "question": "Chuột đồng là đặc sản của tỉnh nào?",
+    "answer": "Đồng Tháp"
+  },
+  {
+    "id": 200,
+    "type": 2,
+    "question": "Người Bình Định thường ăn bánh hỏi cùng món nào?",
+    "answer": "Cháo lòng"
+  },
+  {
+    "id": 201,
+    "type": 2,
+    "question": "Bánh cuốn trứng là món nổi tiếng của địa phương nào?",
+    "answer": "Lạng Sơn"
+  },
+  {
+    "id": 202,
+    "type": 2,
+    "question": "i / g / n / G / h / i / ả / ó / p",
+    "answer": "giải phóng"
+  },
+  {
+    "id": 203,
+    "type": 2,
+    "question": "C / h / d / m / ứ / t / ấ",
+    "answer": "chấm dứt"
+  },
+  {
+    "id": 204,
+    "type": 2,
+    "question": "p / ị / i / h / n / H / đ / ệ",
+    "answer": "hiệp định"
+  },
+  {
+    "id": 205,
+    "type": 2,
+    "question": "t / ạ / h / i / n / g / ắ / Đ",
+    "answer": "Đại thắng"
+  },
+  {
+    "id": 206,
+    "type": 2,
+    "question": "D / í / c / u / h / k",
+    "answer": "du kích"
+  },
+  {
+    "id": 207,
+    "type": 2,
+    "question": "ê / g / ồ / H / i / h / t / n / n",
+    "answer": "hồn thiêng"
+  },
+  {
+    "id": 208,
+    "type": 2,
+    "question": "n / i / g / n / ế / c / T / ô",
+    "answer": "tiếng công"
+  },
+  {
+    "id": 209,
+    "type": 2,
+    "question": "s / ế / n / C / h / i / ĩ",
+    "answer": "chiến sĩ"
+  },
+  {
+    "id": 210,
+    "type": 2,
+    "question": "g / a / t / V / r / n / ũ",
+    "answer": "vũ trang"
+  },
+  {
+    "id": 211,
+    "type": 2,
+    "question": "B / i / n / ì / u / h / ể / t",
+    "answer": "biểu tình"
+  },
+  {
+    "id": 212,
+    "type": 2,
+    "question": "ế / n / g / ố / C / n / i / h",
+    "answer": "cống hiến"
+  },
+  {
+    "id": 213,
+    "type": 2,
+    "question": "l / t / b / ộ / ó / c",
+    "answer": "bóc lột"
+  }    
+]

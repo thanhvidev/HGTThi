@@ -1,0 +1,16 @@
+easy_pil
+discord.py>=2.3.0
+flask
+pillow
+ffmpeg
+discord_interactions
+requests
+pytz
+gtts
+instagram_private_api
+azure-cognitiveservices-speech
+aiosqlite
+asyncio
+cachetools
+python-dotenv
+psutil
