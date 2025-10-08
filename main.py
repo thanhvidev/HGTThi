@@ -14,7 +14,6 @@ from utils.checks import is_bot_owner, is_admin, is_mod
 from datetime import datetime, timezone
 
 
-
 # Load environment variables
 load_dotenv()
 
@@ -157,11 +156,11 @@ async def load_extensions():
         ('Events.Trungthu_2025.quaylongden', 'Quaylongden'),      
 
         # Users
-        ('Users.Me.bio', 'Bio'),
+        ('Users.Me.profile', 'Profile'),
         ('Users.Me.sinhnhat', 'Birthday'),
 
         # Leveling System
-        ('Leveling.level_status', 'LevelingSystem'),
+        ('Leveling.main', 'LevelingSystem'),
     
     ]
 
@@ -212,7 +211,7 @@ async def on_ready():
     for guild in client.guilds:
         try:
             # This will create database if it doesn't exist
-            # pool = db_manager.get_pool(guild.id)
+            pool = db_manager.get_pool(guild.id)
             logger.info(f"📁 Initialized database for guild: {guild.name} (ID: {guild.id})")
         except Exception as e:
             logger.error(f"❌ Failed to initialize database for guild {guild.id}: {e}")

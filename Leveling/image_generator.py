@@ -24,7 +24,7 @@ class ProfileImageGenerator:
         
         # Create background
         bg_color = self.get_background_color(stats)
-        background = await self.create_background(bg_color, stats.get('custom_bg'))
+        background = self.create_background(bg_color, stats.get('custom_bg'))
         img.paste(background, (0, 0))
         
         # Get avatar
@@ -124,13 +124,13 @@ class ProfileImageGenerator:
         
         return output
     
-    async def create_background(self, color: Tuple[int, int, int], custom_bg: Optional[str] = None) -> Image.Image:
+    def create_background(self, color: Tuple[int, int, int], custom_bg: Optional[str] = None) -> Image.Image:
         """Create background for profile card"""
         if custom_bg:
             # Try to load custom background
             try:
                 if custom_bg.startswith('http'):
-                    bg_img = await download_image(custom_bg, (self.width, self.height))
+                    bg_img = download_image(custom_bg, (self.width, self.height))
                     if bg_img:
                         # Resize and apply blur
                         bg_img = bg_img.resize((self.width, self.height), Image.Resampling.LANCZOS)
