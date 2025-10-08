@@ -11,7 +11,7 @@ from .utils import (
     create_achievement_embed
 )
 
-class LevelingEvents:
+class LevelingEvents(commands.Cog):
     def __init__(self, bot: commands.Bot):
         self.bot = bot
         self.db = LevelingDatabase()
@@ -320,6 +320,6 @@ class LevelingEvents:
         """Wait for bot to be ready before starting task"""
         await self.bot.wait_until_ready()
 
-def setup(bot):
+async def setup(bot):
     """Setup function for the cog"""
-    bot.add_cog(LevelingEvents(bot))
+    await bot.add_cog(LevelingEvents(bot))

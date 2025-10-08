@@ -14,7 +14,7 @@ Version: 1.0.0
 """
 
 from .database import LevelingDatabase
-from .commands import LevelingCommands
+from .level import LevelingCommands
 from .events import LevelingEvents
 from .image_generator import ProfileImageGenerator, AchievementImageGenerator
 from .utils import *
