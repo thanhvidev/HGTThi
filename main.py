@@ -160,8 +160,9 @@ async def load_extensions():
         ('Users.Me.bio', 'Bio'),
         ('Users.Me.sinhnhat', 'Birthday'),
 
-        # Leveling System
+        # Leveling System - Gaming Edition
         ('Leveling.level_status', 'LevelingSystem'),
+        ('Leveling.gaming_commands', 'GamingLevelingCommands'),
     
     ]
 
