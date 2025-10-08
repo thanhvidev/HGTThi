@@ -160,7 +160,7 @@ async def load_extensions():
         ('Users.Me.sinhnhat', 'Birthday'),
 
         # Leveling System
-        # ('leveling_module.leveling_commands', 'LevelingCommands'),
+        ('Leveling.main', 'LevelingSystem'),
     
     ]
 
